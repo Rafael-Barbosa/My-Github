@@ -41,7 +41,10 @@
 ### git checkout -b nome_Da_branch --> para criar uma branch (branch é como se fosse uma ramifiação, para que mais de 1 pessoa possa mexer no mesmo projeto ao mesmo tempo, sem que tenha conflitos, por isto voce cria uma branch da main.)
 
 ### git checkout nome_da_branch --> mudar de branch
+### git branch -d NomeDaBranch - deletar uma branch
 
+###  git cherry-pick HashCommit - pegar o commit identificado pelo hash e aplicá-lo na branch atual onde você está
+### git tag -a v1.0 -m "Mensagem - adicionar uma tag para marcar o próximo commit
 
 ### Para criar um pull request no GitHub,
 
