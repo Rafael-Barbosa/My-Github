@@ -13,7 +13,7 @@
 
 ##### No pull request é uma solicitação de atualização...
 
-# Comandos Github Joao Pietro Bom
+# Comandos Github Joao Pietro Bom.
 
 <h1 align="center">Versionamento GitHub</h1>
 
