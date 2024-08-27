@@ -13,4 +13,21 @@
 
 ##### No pull request é uma solicitação de atualização...
 
-
+### Comandos utilizados no roteiro 1
+#### git clone -> Serve para fazer uma cópia (clone) de um repositório remoto para o local.
+#### git add -> Adiciona arquivos modificados ou novos à área de stage.
+#### git commit -> Salva as mudanças na área de stage para o histórico do repositório local.
+#### git push -> Envia os commits do repositório local para o repositório remoto.
+#### git config --global credential.helper cache -> Configura o Git para armazenar temporariamente suas credenciais de autenticação.
+#### git pull -> Atualiza o repositório local com as últimas mudanças do repositório remoto.
+#### git log -> Mostra o histórico de commits da branch atual, listando todos os commits realizados.
+#### git tag -> Cria uma tag no histórico de commits, que é um marcador para um ponto específico do histórico.
+#### git branch -> Lista todas as branches existentes ou cria uma nova branch.
+#### git checkout -> Muda para outra branch.
+#### git merge -> Combina as mudanças de uma branch com outra.
+#### git rebase -> Reaplica os commits de uma branch em cima de outro.
+#### git cherry-pick -> Aplica um commit específico de uma branch em outra.
+#### git reset -> Reverte o repositório para um estado anterior, usando um commit especificado. Pode alterar a área de stage e o histórico de commits.
+#### git stash -> Salva temporariamente mudanças não commitadas, permitindo limpar o diretório de trabalho sem perder o trabalho em andamento.
+##### Fazendo Pull-Request -> Acesse o repositório remoto onde você deseja criar o pull request. Vá até a aba Pull requests no topo da página.Clique no botão New pull request. Selecione a branch que contém as mudanças que você deseja mesclar (merge). Escolha a branch na qual essas mudanças serão mescladas. Clique no botão Create pull request para iniciar o processo de revisão e mesclagem.
+##### Como adicionar Reviewers em seu repositório -> no pull request, aperte no campo reviewers e adicione um revisor
