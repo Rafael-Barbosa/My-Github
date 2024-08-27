@@ -41,3 +41,27 @@
 ### git checkout -b nome_Da_branch --> para criar uma branch (branch é como se fosse uma ramifiação, para que mais de 1 pessoa possa mexer no mesmo projeto ao mesmo tempo, sem que tenha conflitos, por isto voce cria uma branch da main.)
 
 ### git checkout nome_da_branch --> mudar de branch
+
+
+### Para criar um pull request no GitHub,
+
+### Faça um fork do repositório: Vá até o repositório que você deseja contribuir e cli que no botão “Fork” no canto superior direito. Isso criará uma cópia do repositório na sua conta.
+### Clone o repositório forkado: No seu repositório forkado, clique no botão “Code” e copie o link. No seu terminal, execute:
+### git clone [URL_DO_REPOSITORIO]
+### Substitua [URL_DO_REPOSITORIO] pelo link copiado.
+### Crie uma nova branch: Navegue até o diretório do repositório clonado e crie uma nova branch para suas alterações:
+### git checkout -b minha-nova-branch
+
+### Faça as alterações necessárias: Edite os arquivos conforme necessário.
+### Commit suas alterações: Adicione e commit suas alterações:
+### git add .
+### git commit -m "Descrição das minhas alterações"
+
+### Envie a branch para o GitHub: Envie sua branch para o repositório forkado:
+### git push origin minha-nova-branch
+
+### Acesse o repositório: Vá para a página principal do seu repositório no GitHub.
+### Abra as configurações: Clique na aba “Settings” (Configurações) abaixo do nome do repositório.
+### Gerencie o acesso: Na barra lateral, clique em “Collaborators & teams” (Colaboradores e equipes).
+### Adicione pessoas: Clique em “Add people” (Adicionar pessoas). Digite o nome de usuário ou o e-mail da pessoa que você deseja adicionar como revisor.
+### Envie o convite: Clique em “Add NOME ao REPOSITÓRIO” para enviar o convite. A pessoa receberá um e-mail com o convite para se tornar colaborador do repositório
