@@ -26,3 +26,9 @@
 ##### 4 - Selecionar a Branch;
 ##### 5 - Clicar em Create Pull Request;
 ##### 6 - Fazer um Merge;
+##### Como fazer um reviewer
+##### Acesse o repositório: Vá para o repositório no qual deseja adicionar um revisor.
+##### Abra um Pull Request: Crie um novo pull request ou vá para um pull request existente onde deseja adicionar o revisor.
+##### Adicionar Reviewers:
+##### No lado direito da página do pull request, você verá uma seção chamada "Reviewers".
+##### Clique no ícone de engrenagem ou no link "Reviewers" e selecione as pessoas que deseja adicionar como revisores. Eles precisam ter permissões no repositório para aparecer na lista.
