@@ -29,3 +29,5 @@
 #### git cherry-pick -> Aplica um commit específico de uma branch em outra.
 #### git reset -> Reverte o repositório para um estado anterior, usando um commit especificado. Pode alterar a área de stage e o histórico de commits.
 #### git stash -> Salva temporariamente mudanças não commitadas, permitindo limpar o diretório de trabalho sem perder o trabalho em andamento.
+##### Fazendo Pull-Request -> Acesse o repositório remoto onde você deseja criar o pull request. Vá até a aba Pull requests no topo da página.Clique no botão New pull request. Selecione a branch que contém as mudanças que você deseja mesclar (merge). Escolha a branch na qual essas mudanças serão mescladas. Clique no botão Create pull request para iniciar o processo de revisão e mesclagem.
+##### Como adicionar Reviewers em seu repositório -> no pull request, aperte no campo reviewers e adicione um revisor
