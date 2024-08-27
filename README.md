@@ -27,3 +27,5 @@
 #### git -a v1.0 -m "Versão 1.0" -> cria uma tag para marar o próximo commit
 #### git checkout nome_da_branch -> para mudar a branch
 #### git checkout -b nome_da_branch -> para criar uma branch
+#### Como adicionar Reviewers em seu repositório: 
+em open pull request va em reviewers e parte a engrenagem, logo apos insira o nome de, es que deseja adiciona 
