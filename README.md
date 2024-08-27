@@ -8,6 +8,15 @@
 ##### git pull (significado) -> significa basicamente dois comandos git fetch e git merge.
 ##### git log -> acessa o históricos dos commits
 ##### git -a v1.0 -m "Versão 1.0" -> cria uma tag para marcar o próximo commit
+primeiramente criei uma pasta nova com um readme.md dentro dela.
+em seguinda peguei e dei um git add . , em seguinda git commit -m "..."
+e logo em seguida dei um git push para poder subir todo meu repositorio no git.
+logo depois copiei todos os arquivos do drive, coloquei todos eles na pasta MyHead que foi a que criei no começo.
+logo depois coloquei minha imagem que queria, depois criei um git com ela, convertendo ela pra git e em seguida alterei todos os comando necessarios para aparecer minha imagem que queria.
+os codigos seria <p><img src="come.gif" alt=""></p> -> esse serve para aparecer nossa imagem no README
+<img id="img" src="img/come.jpg"> -> ESSE SERVE PARA APARECER A IMAGEM QUE ESCOLHEMOS NO INDEX.
+então em seguinda deploy, que seria entrar em configurações, entrar em paginas alterar ele pra main e salvar para aparecer meu link como um site.
+logo em seguinda subimos tudo para o repositorio do git usaando os mesmo comando que usamos inicialmente. 
 
 ##### git merge Nova-Branch 
 
