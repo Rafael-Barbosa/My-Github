@@ -21,5 +21,27 @@ logo em seguinda subimos tudo para o repositorio do git usaando os mesmo comando
 ##### git merge Nova-Branch 
 
 ##### No pull request é uma solicitação de atualização...
+Adicionando e Confirmando
+git add
+git commit -m "Mensagem do commit"
+git add é usado para adicionar um arquivo ao índice. git commit é usado para confirmar as alterações no repositório.
 
+
+Enviando Alterações
+git push origin master
+Este comando é usado para enviar alterações para o repositório remoto.
+
+
+Atualizando o Repositório Local
+git pull
+Este comando é usado para buscar e mesclar alterações no repositório remoto para o repositório local.
+
+
+Verificando o Status do Repositório
+git status
+Este comando é us
+
+
+Criando uma nova Branch
+git checkout -b "Nova-Branch"
 
