@@ -14,3 +14,7 @@
 ##### No pull request é uma solicitação de atualização...
 
 
+##### git clone <repositório criado> -> feito para baixar do repositório remoto para o local
+##### git add . -> utilizado para adicionar as mudanças feitas no repositório local na stage
+##### git commit -m "mensagem" -> Salvo as alterações adicionadas anteriormente no repositório local
+##### git push -> Manda as atualizações para o repositório remoto 
