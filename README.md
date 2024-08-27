@@ -1,8 +1,7 @@
-# GATITO SUSPEITO
+# Comandos git
 
 ![](gatito.gif)
 
-## respondendo suas questões absurdas
 
 ##### git add
 ###### adiciona as modificações na camada de stash
