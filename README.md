@@ -13,5 +13,8 @@
 ##### git -a v1.0 -m "Versão 1.0" -> cria uma tag para marar o próximo commit
 ##### git checkout nome_da_branch -> para mudar a branch
 ##### git checkout -b nome_da_branch -> para criar uma branch
+##### Pull-Request: No diretório do projeto abra a janela "Pull-request", aperte no Botão new pull request, selecione uma das branchs e crie um pull request, adcione uma descrição e aperte novamente em create pull request e caso não tenha nenhum conflito aperte o botão merge pull-request
+##### Reviewers: Na parte Open pull request vá na opção reviewers e aperte a engrenagem após isso insira o nome dos reviewers que você deseja adcionar
+##### No pull request é uma solicitação de atualização ....
 
 
