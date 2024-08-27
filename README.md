@@ -13,7 +13,7 @@
 
 ##### No pull request é uma solicitação de atualização...
 
-
+### Comandos utilizados no roteiro 1
 #### git clone -> Serve para fazer uma cópia (clone) de um repositório remoto para o local.
 #### git add -> Adiciona arquivos modificados ou novos à área de stage.
 #### git commit -> Salva as mudanças na área de stage para o histórico do repositório local.
