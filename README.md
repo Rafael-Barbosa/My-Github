@@ -1,45 +1,30 @@
 # Comandos Github
 # Comandos git
 
-##### git add . -> adicionar na stage
-##### git commit -m "Alteracoes" -> Salva no repositório local
-##### git push -> sobe para o github
-##### git status -> verifica o status
-##### git pull -> atualiza o repositório local
-##### git pull (significado) -> significa basicamente dois comandos git fetch e git merge.
-##### git log -> acessa o históricos dos commits
-##### git -a v1.0 -m "Versão 1.0" -> cria uma tag para marcar o próximo commit
-![](nada.gif)
+# git add . - Adiciona as mudanças à área de stage.
+# git commit -m "Alterações" - Salva as alterações no repositório local.
+# git push - Envia as alterações para o GitHub.
+#   git status - Verifica o status das modificações.
+# git pull - Atualiza o repositório local com as mudanças do remoto.
+# git pull (significado) - Equivale a dois comandos: git fetch e git merge.
+# git log - Exibe o histórico de commits.
+# git tag -a v1.0 -m "Versão 1.0" - Cria uma tag para marcar o próximo commit.
 
-##### git merge Nova-Branch 
 
-##### No pull request é uma solicitação de atualização...
-##### git add
-###### adiciona as modificações na camada de stash
-
-##### git pull
-###### puxa as informações de alguma branch para a branch atual
-
-#### git push <repositorio> <branch>
-##### envia as alterações do repositório local para o repositório remoto
-
-###### git checkout >branch<
-###### acessa uma branch
-
-##### Como deletar uma branch?
-###### git branch -d >nome-da-branch<
-
-##### git cherry-pick
-###### usado para colocar apenas um commit de uma branch em outra branch utilizando o hash do commit
-
-##### Para resolver o conflito do código, por que é preferível utilizar o rebase em vez do merge?
-###### porque mantém o histórico limpo e linear, evitando commits de merges desnecessários
-
-##### Como inserir apenas um commit de uma branch para a main?
-###### acessando a main e fazendo um cherry-pick com o hash do commit desejado
-
-##### Como fazer um Pull-Request?
-###### no repositório remoto, acesse a aba pull request, clique em new pull request, selecione a branch que será feito o merge e a branch que será usada para fazer o merge, então crie o pull request
-
-##### Como adicionar Reviewers em seu repositório?
-###### no pull request, aperte no campo reviewers e adicione um revisor
+# git merge Nova-Branch - Faz o merge da Nova-Branch na branch atual.
+# O Pull Request é uma solicitação para incorporar mudanças...
+# git add - Adiciona modificações na área de stage.
+# git pull - Atualiza a branch atual com as mudanças de outra branch.
+# git push <repositorio> <branch> - Envia as alterações do repositório local para o repositório remoto.
+# git checkout <branch> - Acessa uma branch específica.
+# Como deletar uma branch?
+# git branch -d <nome-da-branch> - Remove uma branch local.
+# git cherry-pick - Aplica um commit específico de uma branch em outra usando o hash do commit.
+# Por que é preferível usar rebase em vez de merge para resolver conflitos?
+# O rebase mantém o histórico de commits mais limpo e linear, evitando merges desnecessários.
+# Como aplicar apenas um commit de uma branch na main?
+# Acesse a branch main e use git cherry-pick com o hash do commit desejado.
+# Como fazer um Pull Request?
+# No GitHub, vá até a aba "Pull requests", clique em "New pull request", escolha as branches envolvidas no merge, e crie o Pull Request.
+# Como adicionar revisores em seu repositório?
+# No Pull Request, use o campo "Reviewers" para selecionar e adicionar revisores.
