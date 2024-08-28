@@ -1,4 +1,4 @@
-# Comandos Github
+# Comandos GitHub
 
 ## git add -> stage
 ## git commit -m "" -> commit no repositório local
@@ -6,7 +6,7 @@
 ## git status -> visualização do status
 ## git pull -> atualiza o repositório local, significa basicamente git fetch e git merge
 ## git log -> acessa o histórico
-## git tag -a v1.0 -m "versao 1.0" -> é em geral usado para capturar um ponto no histórico que é usado para uma versão marcada.
+## git tag -a v1.0 -m "versao 1.0" -> é em geral usado para capturar um ponto no histórico que é usado para uma versão marcada. 
 ## git checkout -b nomebranch -> para criar uma branch
 ## git checkout nomebranch -> para mudar a branch
 ## git branch -> mosta as branchs do projeto
