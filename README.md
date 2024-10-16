@@ -68,6 +68,4 @@
 > Stash normalmente é usado quando ocorre conflitos entre os arquivos.</br></br>
 > Head é o último commit.
 
-
-
 Refiz o Fork, porque exclui o antigo ._.
